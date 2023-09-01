@@ -3,6 +3,7 @@ import random
 # List of fun greeting messages
 greetings = [
     "Que Pasa",
+    "no se que decir",
     "Zdravo!",
     "Buenas!",
     "Hello, world!",
