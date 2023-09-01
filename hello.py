@@ -2,6 +2,7 @@ import random
 
 # List of fun greeting messages
 greetings = [
+    "Zdravo!"
     "Hello, world!",
     "Hi there!",
     "Howdy!",
